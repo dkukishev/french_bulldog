@@ -15,6 +15,5 @@ export const HeaderWrap = styled.div`
   dog_icon {
     width: 1px;
     height: 10px;
-    position: center;
   }
 `;
